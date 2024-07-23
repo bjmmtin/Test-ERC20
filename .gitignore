@@ -1,0 +1,20 @@
+node_modules
+build
+typechain-types
+.vscode
+coverage.json
+
+#Hardhat files
+cache
+artifacts
+factories
+coverage
+deployments
+.deployments
+.openzeppelin
+public
+docs
+
+# Yarn files
+yarn-error.log
+.env
